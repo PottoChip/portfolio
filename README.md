@@ -17,6 +17,3 @@ Aspiring cybersecurity analyst | 19 | UK-based | Currently studying the Google I
 ## Certification Study
 - [ITFplus Notes](https://github.com/PottoChip/ITFnotes)
 - [Google Cert Summary](https://github.com/PottoChip/Google-Certificate-Summary)
-
-## TryHackMe
-- [Notes](https://github.com/PottoChip/TryHackMe-notes)
